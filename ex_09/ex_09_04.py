@@ -1,4 +1,6 @@
 print("Hey there! Welcome to ex9\n")
+print('Write a program to read through the mbox-short.txt \
+and figure out who has sent the greatest number of mail messages')
 
 inp = input("Please enter filename: ")
 try:

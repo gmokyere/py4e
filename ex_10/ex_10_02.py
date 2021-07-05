@@ -1,5 +1,10 @@
 print("Hey there! Welcome to ex10\n")
 
+'''Write a program to read through the mbox-short.txt and figure out the 
+distribution by hour of the day for each of the messages.
+ You can pull the hour out from the 'From ' lin
+ '''
+
 inp = input("Please enter filename: ")
 try:
     fh = open(inp)
